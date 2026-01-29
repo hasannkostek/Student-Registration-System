@@ -1,0 +1,15 @@
+C:\Users\Hasan\Desktop\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\bin\Debug\Öğrenci kayıt uygulaması.exe.config
+C:\Users\Hasan\Desktop\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\bin\Debug\Öğrenci kayıt uygulaması.exe
+C:\Users\Hasan\Desktop\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\bin\Debug\Öğrenci kayıt uygulaması.pdb
+C:\Users\Hasan\Desktop\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\obj\Debug\Öğrenci kayıt uygulaması.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\obj\Debug\Öğrenci kayıt uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\obj\Debug\Öğrenci kayıt uygulaması.exe
+C:\Users\Hasan\Desktop\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\obj\Debug\Öğrenci kayıt uygulaması.pdb
+C:\Users\Hasan\Desktop\Projeler\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\bin\Debug\Öğrenci kayıt uygulaması.exe.config
+C:\Users\Hasan\Desktop\Projeler\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\bin\Debug\Öğrenci kayıt uygulaması.exe
+C:\Users\Hasan\Desktop\Projeler\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\bin\Debug\Öğrenci kayıt uygulaması.pdb
+C:\Users\Hasan\Desktop\Projeler\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\obj\Debug\Öğrenci kayıt uygulaması.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\obj\Debug\Öğrenci kayıt uygulaması.exe.config
+C:\Users\Hasan\Desktop\Projeler\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\obj\Debug\Öğrenci kayıt uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projeler\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\obj\Debug\Öğrenci kayıt uygulaması.exe
+C:\Users\Hasan\Desktop\Projeler\c# veri\Öğrenci kayıt uygulaması\Öğrenci kayıt uygulaması\obj\Debug\Öğrenci kayıt uygulaması.pdb
